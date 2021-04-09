@@ -26,7 +26,7 @@ all ages.
 discretion on how often they want to check stock prices.
 - **Scope:** First we will start on implementing stock watches/favorites and stock searching. Maybe then
 we can add ways to show and analyze the stock market, i.e. which stock had the biggest gain or dip. Going
-further we can a simulation tab which provides you with fake money and let's you invest as if it was real
+further we can add a simulation tab which provides you with fake money and let's you invest as if it was real
 and the fake portfolio changes with real time stock exchange prices.
 
 ## Product Spec
