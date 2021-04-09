@@ -13,7 +13,7 @@ Could potentially be used as a stock simulator in the future or an easy way of c
 to search them up.
 
 ### App Evaluation
-[Evaluation of your app across the following attributes]
+
 - **Category:** Finance / Simulation
 - **Mobile:** This app would be primarily developed for mobile and would probably be useful on PC as
 well depending if we add a simulation aspect. The mobile version would definitely be more handy as
@@ -82,7 +82,6 @@ Optional:
 * Settings -> Toggle settings
 
 ## Wireframes
-[Add picture of your hand sketched wireframes in this section]
 <img src="https://i.imgur.com/5lDpK2D.jpg" width=600>
 
 ### [BONUS] Digital Wireframes & Mockups
